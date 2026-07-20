@@ -1,0 +1,18 @@
+
+de
+frontend/node_modules
+frontend/dist
+
+# Java
+backend/target
+
+# IDE
+.idea
+.vscode
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
