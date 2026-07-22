@@ -39,7 +39,7 @@ function App() {
 
     try {
       const res = await axios.post(
-        "http://localhost:8080/api/contact",
+        "/api/contact",
         formData
       );
 
